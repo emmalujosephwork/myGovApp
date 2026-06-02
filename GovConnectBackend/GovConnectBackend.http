@@ -1,0 +1,6 @@
+@GovConnectBackend_HostAddress = http://localhost:5289
+
+GET {{GovConnectBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
